@@ -1,0 +1,1 @@
+This website was created for a web unit at university, following user research and UI/UX best principles - It utilises HTML5, Bootstrap and custom CSS, and jQuery to simulate reserving rooms at the hotel.
